@@ -1,0 +1,8 @@
+Baby Duck:
+Due to its tender age, this duck requires a lot of care! It gets hungry really quick, and cant store much food at a time. Lucky for us, this duck can keep itself busy, so it's happiness doesn't drain very quickly. This pet is considered the "hard mode" of Duck Duck Goose.
+
+Adult Duck:
+Our baby is all grown up! The adult duck boasts higher max stats, and lower rates of depletion. This pet is considered the "normal mode" of Duck Duck Goose.
+
+Noble Goose:
+As a migratory bird, the goose has become hardened to all the adversities of long travel, boasting the best vital statistics in the game. These same hardships have made it bitter and quick to anger... be careful! This pet is considered the "easy mode" of Duck Duck Goose. 
